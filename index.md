@@ -20,7 +20,7 @@ _Contact mail: sanserguz@gmail.com_
 - Systems Simulation (DES), Ali Rıza Kaylan
 
 **Operations Research and Management**
-- Optimization Techniques I, Kuban Altınel 	
+- Optimization Techniques, Kuban Altınel 	
 - Operations Research I, İlhan Or 
 - Operations Research II, Hakan Yaşarcan 	
 - Facilities Design & Planning, Gönenç Yücel
