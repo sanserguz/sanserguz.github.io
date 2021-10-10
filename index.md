@@ -6,6 +6,7 @@ _[Curriculum Vitae](GUZ_resCV.pdf), Contact mail: sanserguz@gmail.com_
 
 ## [Curriculum Vitae](GUZ_resCV.pdf)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Publications](https://sanserguz.github.io/publications/) 
 
+<br><br>
 
 ## Related Coursework
 **Complex Systems Science and Simulation**
