@@ -1,4 +1,6 @@
 ## Projects
 
 
-Navigate to [Projects](https://sanserguz.github.io/projects/) 
+## [Projects](https://sanserguz.github.io/projects/) 
+
+## [Publications](https://sanserguz.github.io/publications/) 
