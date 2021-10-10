@@ -6,13 +6,13 @@ hi there
 
 # RELATED COURSEWORK (w/ instructor & course code, at Boğaziçi University)
 
-Complex Systems Science and Simulation
+**Complex Systems Science and Simulation**
 Dynamics of Socio-Economic Systems	IE 550		Yaman Barlas
 Agent Based Modeling & Simulation 	IE 588		Gönenç Yücel
-Systems and Sustainability			ESC 578	Ali Kerem Saysel	
-Systems Theory 				IE 533		Gönenç Yücel	
+Systems and Sustainability		    	ESC 578	  Ali Kerem Saysel	
+Systems Theory 		              		IE 533		Gönenç Yücel
 Systems Science and Engineering 		IE 350		Gönenç Yücel
-Systems Simulation (DES)			IE 306		Ali Rıza Kaylan
+Systems Simulation (DES)		      	IE 306		Ali Rıza Kaylan
 
 Operations Research and Management
 Optimization Techniques I 			IE 501		Kuban Altınel 	
