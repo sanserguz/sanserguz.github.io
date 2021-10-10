@@ -6,7 +6,6 @@ hi there
 
 
 ## Related Coursework
-
 **Complex Systems Science and Simulation**
 - Dynamics of Socio-Economic Systems	IE 550		Yaman Barlas
 - Agent Based Modeling & Simulation 	IE 588		Gönenç Yücel
