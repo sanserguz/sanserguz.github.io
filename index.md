@@ -2,8 +2,6 @@ Welcome to my GitHub page. Here, you can access my previous research and selecte
 
 _Contact mail: sanserguz@gmail.com_
 
-<br>
-
 ## [Curriculum Vitae](GUZ_resCV.pdf)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Publications](https://sanserguz.github.io/publications/) 
 
 <br>
