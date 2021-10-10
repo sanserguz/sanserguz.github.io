@@ -4,6 +4,8 @@ _Contact mail: sanserguz@gmail.com_
 
 ## [Curriculum Vitae](GUZ_resCV.pdf)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Publications](https://sanserguz.github.io/publications/) 
 
+**Research Interests:** System dynamics, agent-based modeling, complex systems, health systems modeling, simulation-aided policy analysis, biomedical modeling, chemotherapy, evidence-based public health, health policy, dynamic decision making, health economics, insurance dynamics, LGBTQIA+ health, social determinants of health, health disparities
+
 <br>
 
 ## Related Coursework
