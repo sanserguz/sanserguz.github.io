@@ -4,7 +4,7 @@ hi there
 
 ## [Publications](https://sanserguz.github.io/publications/) 
 
-**Related Coursework (w/ instructor & course code, at Boğaziçi University)**
+## Related Coursework (w/ instructor & course code, at Boğaziçi University)
 
 **Complex Systems Science and Simulation**
 - Dynamics of Socio-Economic Systems	IE 550		Yaman Barlas
