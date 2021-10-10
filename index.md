@@ -4,7 +4,7 @@ _[Curriculum Vitae](GUZ_resCV.pdf), Contact mail: sanserguz@gmail.com_
 
 
 
-## [Projects](https://sanserguz.github.io/projects/)  |  [Publications](https://sanserguz.github.io/publications/)  |
+## [Curriculum Vitae](GUZ_resCV.pdf)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Publications](https://sanserguz.github.io/publications/) 
 
 
 ## Related Coursework
