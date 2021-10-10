@@ -8,6 +8,8 @@ _Contact mail: sanserguz@gmail.com_
 
 **Research Interests:** System dynamics, agent-based modeling, complex systems, health systems modeling, simulation-aided policy analysis, biomedical modeling, chemotherapy, evidence-based public health, health policy, dynamic decision making, health economics, insurance dynamics, LGBTQIA+ health, social determinants of health, health disparities
 
+![Image](complex.jpg)
+
 ### Related Coursework (w/Instructor)
 **Complex Systems Science and Simulation**
 - Dynamics of Socio-Economic Systems, Yaman Barlas
