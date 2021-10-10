@@ -1,4 +1,7 @@
-hi there
+Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework.
+
+_Correspondences to sanserguz@gmail.com_
+
 
 ## [Projects](https://sanserguz.github.io/projects/) 
 
