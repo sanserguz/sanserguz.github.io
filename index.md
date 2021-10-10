@@ -1,8 +1,8 @@
 Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework.
 
-_Contact mail: sanserguz@gmail.com_
+_[Curriculum Vitae](GUZ_resCV.pdf), Contact mail: sanserguz@gmail.com_
 
-[Curriculum Vitae](GUZ_resCV.pdf)
+
 
 ## [Projects](https://sanserguz.github.io/projects/) 
 
