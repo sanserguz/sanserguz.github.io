@@ -1,6 +1,6 @@
 Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework.
 
-Contact mail: sanserguz@gmail.com_
+_Contact mail: sanserguz@gmail.com_
 
 <br>
 
