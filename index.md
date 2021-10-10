@@ -1,12 +1,12 @@
 Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework.
 
-_[Curriculum Vitae](GUZ_resCV.pdf), Contact mail: sanserguz@gmail.com_
+Contact mail: sanserguz@gmail.com_
 
-
+<br>
 
 ## [Curriculum Vitae](GUZ_resCV.pdf)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Publications](https://sanserguz.github.io/publications/) 
 
-<br><br>
+<br>
 
 ## Related Coursework
 **Complex Systems Science and Simulation**
