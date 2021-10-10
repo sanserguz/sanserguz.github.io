@@ -1,4 +1,4 @@
-## [Şanser Güz](https://sanserguz.github.io/main/) <p style="font-size:6px">(they/them)</p> 
+## [Şanser Güz](https://sanserguz.github.io/main/) (they/them)
 
 Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework.
 
