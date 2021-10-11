@@ -2,9 +2,10 @@
 
 Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework.
 
+**[Curriculum Vitae](GUZ_resCV.pdf)** <br>
 _Contact mail: sanserguz@gmail.com_
 
-## [Curriculum Vitae](GUZ_resCV.pdf)  |  [Publications](https://sanserguz.github.io/publications/)  |  [Projects](https://sanserguz.github.io/projects/)
+##  [Publications](https://sanserguz.github.io/publications/)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Thesis Progress](https://sanserguz.github.io/thesis/) 
 
 **Research Interests:** System dynamics, agent-based modeling, complex systems, health systems modeling, simulation-aided policy analysis, biomedical modeling, chemotherapy, evidence-based public health, health policy, dynamic decision making, health economics, insurance dynamics, LGBTQIA+ health, social determinants of health, health disparities
 
