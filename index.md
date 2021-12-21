@@ -5,6 +5,8 @@ Welcome to my GitHub page. Here, you can access my previous research and selecte
 ### **[Curriculum Vitae](GUZ_resCV.pdf)** <br>
 _Contact mail: sanserguz@gmail.com_
 
+Update: Check our dynamic G-CSF treatment simulator on ISEE Exchange. [Click Here] (https://exchange.iseesystems.com/public/oirsoy/dynamic-g-csf-treatment-of-chemotherapy-induced-neutropenia)
+
 ##  [Publications](https://sanserguz.github.io/publications/)  |  [Projects](https://sanserguz.github.io/projects/)  |  [Thesis Progress](https://sanserguz.github.io/thesis/) 
 
 **Research Interests:** System dynamics, agent-based modeling, complex systems, health systems modeling, simulation-aided policy analysis, biomedical modeling, chronic disease management, evidence-based public health, health policy, dynamic decision making, health economics, insurance dynamics, LGBTQIA+ health, social determinants of health, health disparities
