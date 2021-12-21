@@ -1,4 +1,4 @@
-## [Şanser Güz](https://sanserguz.github.io/main/) (they/them)
+## [Şanser Güz](https://sanserguz.github.io/) (they/them)
 
 Welcome to my GitHub page. Here, you can access my previous research and selected produced materials from my graduate coursework. You can also take a look at my MSc thesis progress journal using the link below.
 
